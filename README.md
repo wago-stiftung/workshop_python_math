@@ -4,6 +4,7 @@ Pythonmath ist ein Python-Modul, welches die mathematischen Funktionen
 - Subtrahieren -> sub(zahl1, zahl2),
 - Multiplizieren -> mul(zahl1, zahl2) und
 - Dividieren -> div(zahl1, zahl2)
+
 zur Verfügung stellt.
 
 ## Benutzung
